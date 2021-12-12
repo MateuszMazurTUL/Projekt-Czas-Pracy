@@ -1,9 +1,7 @@
 # Projekt-Czas-Pracy
 Projekt na cele przedmiotu PDW
 
-# Skład
-| Osoba                    | 
-| :-------------:          |
+# Zespół
   
 | [`Mateusz Mazur`](https://github.com/MateuszMazurTUL)      |
 | [`Karolina Maciejewska`](https://github.com/Karo0510)      |
